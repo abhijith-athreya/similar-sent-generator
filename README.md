@@ -13,8 +13,8 @@ Similar sentences generator
 
 ## Configuration Options
 
-- The main method which handles the input is: provide_alternate_sentence(...). This has the following modifiable parameters:
-* Fruit
-  * Apple
-  * Orange
-  * Banana
+* The main method which handles the input is: provide_alternate_sentence(...). This has the following modifiable parameters:
+  * num_versions = Number of similar versions required. This is just a request, and cannot be guaranteed.
+  * similarity_threshold = Value between 0 to 1. Higher value indicates closer sentences (this might also decrease the number of versions).
+
+## Samples
