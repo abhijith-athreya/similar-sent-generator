@@ -15,6 +15,18 @@ Similar sentences generator
 
 * The main method which handles the input is: provide_alternate_sentence(...). This has the following modifiable parameters:
   * num_versions = Number of similar versions required. This is just a request, and cannot be guaranteed.
-  * similarity_threshold = Value between 0 to 1. Higher value indicates closer sentences (this might also decrease the number of versions).
+  * similarity_threshold = [0,1]. Higher value indicates closer sentences (this might also decrease the number of versions).
 
 ## Samples
+
+Here are some of the samples generated through this tool:
+
+Input: We collect your information regularly
+Sample1: We collect your data regularly
+Sample2: We gather your information regularly
+Sample3: We gather your info regularly
+
+Input: We collect your information regularly
+Sample1: We collect your data regularly
+Sample2: We gather your information regularly
+Sample3: We gather your info regularly
