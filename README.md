@@ -14,3 +14,7 @@ Similar sentences generator
 ## Configuration Options
 
 - The main method which handles the input is: provide_alternate_sentence(...). This has the following modifiable parameters:
+* Fruit
+  * Apple
+  * Orange
+  * Banana
