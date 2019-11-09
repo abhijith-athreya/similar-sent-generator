@@ -7,11 +7,10 @@ Similar sentences generator
 
 ## Usage
 
-- Install gensim, and nltk
-- Download GloVe embeddings (https://nlp.stanford.edu/projects/glove/)
-- Run the included jupyter notebook
+- Install gensim, and nltk.
+- Download GloVe embeddings (https://nlp.stanford.edu/projects/glove/).
+- Run the included jupyter notebook.
 
 ## Configuration Options
 
 - The main method which handles the input is: provide_alternate_sentence(...). This has the following modifiable parameters:
-  - 
