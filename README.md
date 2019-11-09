@@ -25,8 +25,3 @@ Input: We collect your information regularly
 Sample1: We collect your data regularly
 Sample2: We gather your information regularly
 Sample3: We gather your info regularly
-
-Input: We collect your information regularly
-Sample1: We collect your data regularly
-Sample2: We gather your information regularly
-Sample3: We gather your info regularly
